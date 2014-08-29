@@ -1,0 +1,4 @@
+1.8.7 af_rails:0.12 ruby_regex_in_rails:0.69 opt_regex:0.96 rails:17.11
+1.9.3 af_rails:0.12 ruby_regex_in_rails:0.78 opt_regex:0.99 rails:14.99
+2.0.0 af_rails:0.09 ruby_regex_in_rails:0.88 opt_regex:1.07 rails:14.91
+2.1.2 af_rails:0.10 ruby_regex_in_rails:0.56 opt_regex:0.68 rails:11.40
